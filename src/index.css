@@ -11,24 +11,11 @@ html:not(texto) {
   background-size: 100% 100%;
   background-attachment: fixed;
   background-position: center;
-  animation: background 2s;
+
 
 
 }
 
-/* @keyframes background {
-
-  0% {
-    background-size: 110% 100%;
-
-
-  }
-
-  100% {
-
-    background-size: 100% 100%;
-
-  } */
 
 
 
@@ -42,22 +29,8 @@ html:not(texto) {
 
 body {
   height: 100%;
-  animation: texto 2s ease-in-out;
 
-}
 
-@keyframes texto {
-
-  0% {
-    opacity: 0;
-    transform: translateY(-70%);
-
-  }
-
-  100% {
-    opacity: 1;
-    transform: translateY(0%);
-  }
 }
 
 
@@ -69,22 +42,6 @@ img:not(.body) {
   width: 250px;
   height: 200px;
   border: 6px solid rgb(47, 25, 124);
-  animation: imagenes 400ms;
-
-}
 
 
-
-@keyframes imagenes {
-
-  0% {
-    opacity: 0;
-
-
-  }
-
-  100% {
-    opacity: 1;
-
-  }
 }
