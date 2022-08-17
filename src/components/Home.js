@@ -12,8 +12,11 @@ const Home = () =>
 
     <div className='container'>
         <div className='texto-boke'>
-            Buscá tu meme BOKE con los FILTROS de arriba <br></br>
-            
+            Buscá tu meme BOKE con los FILTROS de arriba. <br/><br/>
+            <p>Ponele la más hermosa música a tu búsqueda:</p>
+            <audio controls>
+          <source src={`${process.env.PUBLIC_URL}/dalebo.mp3`} type="audio/mpeg"/>
+        </audio>
            
 
         </div>   

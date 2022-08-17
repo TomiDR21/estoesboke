@@ -32,7 +32,7 @@ function MemesContainer() {
         {
           filteredImages.map(image => 
             <div key={image.id} className="image-card">
-              <img className="image"src={`/imagenes/${image.imageName}`} alt=""/>
+              <img className="image"src={`${process.env.PUBLIC_URL}/imagenes${image.imageName}`} alt=""/>
             </div>
           )
         }

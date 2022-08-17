@@ -8,7 +8,7 @@
 
 .texto-boke {
     position: relative;
-    top: 200px;
+    top: 150px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 90px;
     text-align: center;
@@ -19,6 +19,17 @@
 
 }
 
+.texto-boke p {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background: none;
+    text-shadow: 5px 3px 3px black;
+    opacity: 1;
+
+}
 
 
 
