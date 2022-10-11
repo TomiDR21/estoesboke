@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/estoesboke/static/css/main.9c5a3678.css",
-    "main.js": "/estoesboke/static/js/main.b19176b3.js",
+    "main.js": "/estoesboke/static/js/main.9224121a.js",
     "static/js/787.f2fdaff7.chunk.js": "/estoesboke/static/js/787.f2fdaff7.chunk.js",
     "static/media/simiogritaboke.jpg": "/estoesboke/static/media/simiogritaboke.1d241ef702d3bded9d49.jpg",
     "index.html": "/estoesboke/index.html",
     "main.9c5a3678.css.map": "/estoesboke/static/css/main.9c5a3678.css.map",
-    "main.b19176b3.js.map": "/estoesboke/static/js/main.b19176b3.js.map",
+    "main.9224121a.js.map": "/estoesboke/static/js/main.9224121a.js.map",
     "787.f2fdaff7.chunk.js.map": "/estoesboke/static/js/787.f2fdaff7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c5a3678.css",
-    "static/js/main.b19176b3.js"
+    "static/js/main.9224121a.js"
   ]
 }
